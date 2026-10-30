@@ -1,8 +1,12 @@
 # Tabla de pruebas
 
-Proyecto: Electrónica Medina | Medina González Cristian Roberto | 23170234
+Proyecto: Electrónica Medina |  
+Alumnos:<br>
+Medina González Cristian Roberto - 23170234<br>
+Villalba Rodríguez Kevin Eliazar - 23170369<br>
+Leon Fernandez Alexis Javier - 23171137<br>
 
-Pruebas realizadas el 28 de octubre de 2026. Las primeras 113 ejecutan los procedimientos MASM reales en un arnés de comprobación. Los casos de archivo se ejecutaron también en procesos separados. El éxito indica que todas las comparaciones del caso se cumplieron; no es una predicción de resultados.
+Pruebas realizadas. Las primeras 113 ejecutan los procedimientos MASM reales en un arnés de comprobación. Los casos de archivo se ejecutaron también en procesos separados. El éxito indica que todas las comparaciones del caso se cumplieron; no es una predicción de resultados.
 
 | ID | Entrada / caso | Resultado esperado | Resultado obtenido |
 | --- | --- | --- | --- |
