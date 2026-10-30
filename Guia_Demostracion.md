@@ -1,6 +1,9 @@
 # Guía de demostración y revisión oral
 
-Medina González Cristian Roberto - 23170234  
+Alumnos:<br>
+Medina González Cristian Roberto - 23170234<br>
+Villalba Rodríguez Kevin Eliazar - 23170369<br>
+Leon Fernandez Alexis Javier - 23171137<br>
 Lenguajes de Interfaz | Ing. José Luis Medina Jiménez | 10:00 - 11:00
 
 ## Preparación
