@@ -1,4 +1,4 @@
-# Guía de demostración y revisión oral
+# Guía de demostración 
 
 Alumnos:<br>
 Medina González Cristian Roberto - 23170234<br>
