@@ -88,7 +88,7 @@ El formato está validado estructuralmente, pero no incluye cifrado ni autentica
 
 # Fuentes y decisiones investigadas
 
-Se consultaron las referencias siguientes para contrastar los contratos de la biblioteca y de las herramientas. El formato INV1, el umbral de cinco unidades y la organización en registros son decisiones propias de esta implementación. Consulta: 28 de octubre de 2026.
+Se consultaron las referencias siguientes para contrastar los contratos de la biblioteca y de las herramientas. El formato INV1, el umbral de cinco unidades y la organización en registros son decisiones propias de esta implementación.
 
 [1] Kip Irvine, documentación de ReadString, copia HTML alojada por California State University, Dominguez Hills. Parámetros EDX/ECX, longitud de salida y terminador.
 https://csc.csudh.edu/mmccullough/asm/help/source/irvinelib/readstring.htm
@@ -110,7 +110,3 @@ https://learn.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-movefilee
 
 [7] Microsoft Learn, ML and ML64 command-line reference. Ensamblado COFF de 32 bits e información de depuración.
 https://learn.microsoft.com/en-us/cpp/assembler/masm/ml-and-ml64-command-line-reference?view=msvc-170
-
-## Material de partida
-
-Consigna proporcionada: U2_PROYECTO_ENSAMBLADOR.pdf, tres páginas. También se revisó la implementación local de ReadString y WriteString en el código fuente distribuido con Irvine32 para considerar el comportamiento del buffer y la conservación de registros. No se copió una solución de inventario de estas fuentes.
