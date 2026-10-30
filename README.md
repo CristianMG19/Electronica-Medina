@@ -1,7 +1,7 @@
 # Electrónica Medina - Proyecto integrado de Unidad 2
 
-Alumno: Medina González Cristian Roberto  
-Matrícula: 23170234  
+Alumnos: 
+Medina González Cristian Roberto - 23170234  
 Docente: Ing. José Luis Medina Jiménez  
 Horario: 10:00 - 11:00
 
