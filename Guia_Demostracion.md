@@ -33,7 +33,7 @@ Colocar F9 en fpLoop, dentro de FindProduct. Iniciar F5, elegir buscar y captura
 
 Colocar F9 en utsDivide, dentro de UIntToString. Mostrar el resumen. EAX contiene el entero por convertir; EBX vale diez. Antes de DIV, EDX se limpia. Tras DIV, EAX conserva el cociente y EDX el residuo. Cada residuo se apila. En utsWrite, los POP recuperan los dígitos desde el más significativo, se suma '0' y se guardan en el buffer EDI. Mostrar que al volver de la función ESP recupera su valor de entrada. USES agrega la conservación de los registros declarados; no confundir estos PUSH/POP con los de los dígitos.
 
-## Las doce preguntas del PDF
+## Preguntas
 
 1. **ReadString.** En ReadInput, EDX apunta a inputBuffer y ECX se establece en 255 para un buffer de 256 bytes. EAX devuelve la longitud. Los caracteres quedan en inputBuffer con terminador cero. Se rechazan longitudes de 250 o más; este margen también cubre variantes antiguas de Irvine que reservan el terminador dentro de ECX. ReadInput conserva el EDX del mensaje mediante USES.
 
