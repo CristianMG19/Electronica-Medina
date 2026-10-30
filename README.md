@@ -2,6 +2,7 @@
 
 Alumnos: 
 Medina González Cristian Roberto - 23170234  
+Kevin Eliazar Villalba Rodríguez - 23170369
 Docente: Ing. José Luis Medina Jiménez  
 Horario: 10:00 - 11:00
 
