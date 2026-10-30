@@ -8,7 +8,6 @@ Villalba Rodríguez Kevin Eliazar - 23170369<br>
 Leon Fernandez Alexis Javier - 23171137<br>
 Lenguajes de Interfaz, Unidad 2  
 Docente: Ing. José Luis Medina Jiménez · Horario: 10:00 - 11:00  
-28 de octubre de 2026
 
 ## 1. Negocio y regla adicional
 
